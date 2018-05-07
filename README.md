@@ -1,4 +1,4 @@
-# Switchers
+# The Switchers
 
 Développé sous Unity, The Switchers est un jeu vidéo puzzle-plateforme 2D réalisé dans le cadre du cours de développement et de conception de jeux vidéos.
 Le joueur contrôle un personnage qu'il doit mener au bout de niveaux.
